@@ -1,12 +1,12 @@
 #include "main.h"
-
 /**
- * _abs - Computes the absolute value
- * of an integer.
+ * print_sign - Determines if the input number
+ * greater, iqual or less than zero.
  *
- * @i: input number as an integer.
+ * @n: The input number as an integer.
  *
- * Return: absolute value
+ * Return: 1 is greater than zero. 0 is zero.
+ * -1 is less than zero.
  */
 int _abs(int i)
 {
