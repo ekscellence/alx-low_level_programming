@@ -19,7 +19,3 @@ int _abs(int i)
 		return (i * -1);
 	}
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
